@@ -176,17 +176,39 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Criar uma estratégia de governança de nuvem no Azure](https://docs.microsoft.com/pt-br/learn/modules/build-cloud-governance-strategy-azure/)
 #### Descrever recursos de privacidade e conformidade
 * Descrever os princípios básicos da Microsoft de Segurança, Privacidade e Conformidade
+  * [Segurança, Privacidade e Conformidade na Central de Confiabilidade](https://www.microsoft.com/pt-br/trust-center/product-overview)
+  * [Visão geral da privacidade](https://docs.microsoft.com/pt-br/compliance/assurance/assurance-privacy)
+  * [Declaração de conformidade do Azure](https://docs.microsoft.com/pt-br/azure/compliance/)
+  * [Guia de avaliação de risco](https://docs.microsoft.com/pt-br/compliance/assurance/assurance-risk-assessment-guide)
+  * [Trusted Cloud PDF](https://download.microsoft.com/download/1/6/0/160216AA-8445-480B-B60F-5C8EC8067FCA/WindowsAzure-SecurityPrivacyCompliance.pdf)
 * Descrever a finalidade da Declaração de Privacidade da Microsoft, Termos de Serviços Online (OST) e Emenda de Proteção de Dados (DPA)
+  * [Política de Privacidade da Microsoft](https://privacy.microsoft.com/pt-br/privacystatement)
+  * [Termos de Licenciamento](https://www.microsoft.com/pt-br/licensing/product-licensing/products)
+  * [Emenda de Proteção de Dados (DPA)](http://www.aka.ms/DPA)
 * Descrever o propósito da Central de Confiabilidade
-* Ddescrever a finalidade da documentação de conformidade do Azure
+  * [Microsoft Trust Center (Central de Confiabilidade)](https://www.microsoft.com/pt-br/trust-center)
+* Descrever a finalidade da documentação de conformidade do Azure
+  * [Documentação de conformidade do Azure](https://docs.microsoft.com/pt-br/azure/compliance/) 
 * Descrever a finalidade das Regiões Soberanas do Azure (serviços de nuvem do Azure Government e serviços de nuvem do Azure China)
+  * [Guia de decisão das regiões do Azure - Soberania nacional](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions)
+  * [Azure China](https://docs.microsoft.com/pt-br/azure/china/overview-operations)
+  * [Azure para o governo dos EUA](https://azure.microsoft.com/pt-br/global-infrastructure/government/#why-azure)
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure](https://docs.microsoft.com/pt-br/learn/modules/examine-privacy-compliance-data-protection-standards/)
 ### Descrever o gerenciamento de custos do Azure e os Contratos de Nível de Serviço (10-15%)
 #### Descrever métodos para planejar e gerenciar custos
 * Identificar fatores que podem afetar os custos (tipos de recursos, serviços, locais, entrada e tráfego de saída)
+  * [Página sobre preços do Azure](https://azure.microsoft.com/pt-br/pricing/)
+  * [Preços relacionados ao uso de largura de banda](https://azure.microsoft.com/pt-br/pricing/details/bandwidth/)
 * Identificar fatores que podem reduzir custos (instâncias reservadas, capacidade reservada, benefício de uso híbrido, preço à vista)
+  * [Reservas de instância e capacidade no Azure](https://docs.microsoft.com/pt-br/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+  * [Benefício híbrido do Azure](https://azure.microsoft.com/pt-br/pricing/hybrid-benefit/)
 * Descrever a funcionalidade e uso da calculadora de preços e a calculadora do custo total de propriedade (TCO)
+  * [Calculadora de preços do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
+  * [Calculadora de TCO](https://azure.microsoft.com/pt-br/pricing/tco/calculator/) 
 * Descrever a funcionalidade e o uso do Azure Cost Management
+  * [O que é o Azure Cost Management](https://docs.microsoft.com/pt-br/azure/cost-management-billing/cost-management-billing-overview)
+  * [Como otimizar seu investimento na nuvem com o Cost Management](https://docs.microsoft.com/pt-br/azure/cost-management-billing/costs/cost-mgt-best-practices)
+  * [Planejando o gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/azure/cost-management-billing/understand/plan-manage-costs)
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Planeje e gerencie seus custos do Azure](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
 #### Descrever os Contratos de Nível de Serviço (SLAs) do Azure e os ciclos de vida do serviço
 * Descrever a finalidade de um Contrato de Nível de Serviço (SLA) do Azure
