@@ -133,9 +133,16 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [O que são os hosts dedicados do Azure](https://docs.microsoft.com/pt-br/azure/virtual-machines/dedicated-hosts)
 #### Descrever a segurança de rede do Azure
 * Descrever o conceito de defesa em profundidade
+  *  [O que é defesa em profundidade](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/2-what-is-defense-in-depth)
+  *  [Melhores práticas fundamentais: Defesa em profundidade](https://docs.microsoft.com/pt-pt/azure/ddos-protection/fundamental-best-practices#defense-in-depth)
+  *  [Estratégias de segurança de rede](https://docs.microsoft.com/pt-br/azure/architecture/framework/security/design-network)
+  *  [Entendendo a segurança dos datacenter da Microsoft](https://docs.microsoft.com/pt-br/learn/modules/audit-physical-security/)
 * Descrever a funcionalidade e o uso de Grupos de Segurança de Rede (NSG)
+  *  [Visão geral dos grupos de segurança de rede](https://docs.microsoft.com/pt-pt/azure/virtual-network/network-security-groups-overview)
 * Descrever a funcionalidade e o uso do Firewall do Azure
+  * [O que é o Firewall do Azure](https://docs.microsoft.com/pt-br/azure/firewall/overview)
 * Descrever a funcionalidade e o uso da proteção contra DDoS do Azure
+  * [Visão geral do serviço de proteção contra DDoS do Azure](https://docs.microsoft.com/pt-br/azure/ddos-protection/ddos-protection-overview)
 * Módulo do Microsoft Learn cobrido todos estes tópicos: [Conectividade de rede segura no Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/)
 ### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 #### Descrever os principais serviços de identidade do Azure
