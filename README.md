@@ -43,16 +43,71 @@ Agilidade e Recuperação de Desastres
 * Descrever os benefícios e o uso do Azure Resource Manager
 * Explicar os recursos do Azure
 #### Descrever os principais recursos disponíveis no Azure
-* Descrever os benefícios e o uso de Máquinas Virtuais, Azure App Services, Azure
-Instâncias de Contêiner (ACI), Serviço de Kubernetes do Azure (AKS) e Área de Trabalho Virtual do Azure
-* Descrever os benefícios e uso de Redes Virtuais, Gateway VPN, Rede Virtual
-emparelhamento e ExpressRoute
+* Descrever os benefícios e o uso de Máquinas Virtuais, Azure App Services, Instâncias de Contêiner do Azure (ACI), Serviço de Kubernetes do Azure (AKS) e Área de Trabalho Virtual do Azure
+* Descrever os benefícios e uso de Redes Virtuais, VPN Gateway, Emparelhamento de Rede Virtual e Express Route
 * Descrever os benefícios e uso do Container (Blob) Storage, Disk Storage, File Storage,
 e camadas de armazenamento
 * Descrever os benefícios e uso do Cosmos DB, Banco de Dados SQL do Azure, Banco de Dados do Azure para
 MySQL, Banco de Dados do Azure para PostgreSQL e Instância Gerenciada de SQL do Azure
 * Descrever os benefícios e o uso do Azure Marketplace
-
+#### Descrever as principais soluções e ferramentas de gerenciamento no Azure (10-15%)
+### Descrever as principais soluções disponíveis no Azure
+* Descrever os benefícios e o uso do Hub da Internet das Coisas (IoT), IoT Central e Azure
+Esfera
+* Descrever os benefícios e o uso do Azure Synapse Analytics, HDInsight e Azure
+Databricks
+* Descrever os benefícios e o uso do Azure Machine Learning, Cognitive Services e
+Serviço de bot do Azure
+* Descrever os benefícios e o uso de soluções de computação sem servidor que incluem o Azure
+Functions e Logic Apps
+* Descrever os benefícios e o uso do Azure DevOps, GitHub, GitHub Actions e Azure DevTest Labs
+### Descrever as ferramentas de gerenciamento do Azure
+* Descrever a funcionalidade e o uso do Portal do Azure, Azure PowerShell, CLI do Azure, Cloud Shell e aplicativo móvel do Azure
+* Descrever a funcionalidade e o uso do Azure Advisor
+* Descrever a funcionalidade e o uso de modelos do Azure Resource Manager (ARM)
+* Descrever a funcionalidade e o uso do Azure Monitor
+* Descrever a funcionalidade e o uso do Azure Service Health
+#### Descrever recursos gerais de segurança e segurança de rede (10-15%)
+### Descrever os recursos de segurança do Azure
+* Descrever os recursos básicos da Central de Segurança do Azure, incluindo conformidade com políticas, segurança, alertas, pontuação segura e higiene de recursos
+* Descrever a funcionalidade e o uso do Azure Key Vault
+* Descrever a funcionalidade e o uso do Azure Sentinel
+* Descrever a funcionalidade e o uso dos Hosts Dedicados do Azure
+### Descrever a segurança de rede do Azure
+* Descrever o conceito de defesa em profundidade
+* Descrever a funcionalidade e o uso de Grupos de Segurança de Rede (NSG)
+* Descrever a funcionalidade e o uso do Firewall do Azure
+* Descrever a funcionalidade e o uso da proteção contra DDoS do Azure
+#### Descrever os recursos de identidade, governança, privacidade e conformidade (15-
+20%)
+### Descrever os principais serviços de identidade do Azure
+* Explicar a diferença entre autenticação e autorização
+* Definir o Azure Active Directory
+* Descrever a funcionalidade e o uso do Azure Active Directory
+* Descrever a funcionalidade e uso do Acesso Condicional, Autenticação Multifator (MFA) e Logon único (SSO)
+### Descrever os recursos de governança do Azure
+* Descrever a funcionalidade e o uso do Controle de Acesso Baseado em Função (RBAC)
+* Descrever a funcionalidade e uso de bloqueios de recursos
+* Descrever a funcionalidade e uso de tags
+* Descrever a funcionalidade e o uso do Azure Policy
+* Descrever a funcionalidade e o uso dos Blueprints do Azure
+* Descrever o Cloud Adoption Framework para Azure
+### Descrever recursos de privacidade e conformidade
+* Descrever os princípios básicos da Microsoft de Segurança, Privacidade e Conformidade
+* Descrever a finalidade da Declaração de Privacidade da Microsoft, Termos de Serviços Online (OST) e Emenda de Proteção de Dados (DPA)
+* Descrever o propósito da Central de Confiabilidade
+* Ddescrever a finalidade da documentação de conformidade do Azure
+* Descrever a finalidade das Regiões Soberanas do Azure (serviços de nuvem do Azure Government e serviços de nuvem do Azure China)
+#### Descrever o gerenciamento de custos do Azure e os Contratos de Nível de Serviço (10-15%)
+### Descrever métodos para planejar e gerenciar custos
+* Identificar fatores que podem afetar os custos (tipos de recursos, serviços, locais, entrada e tráfego de saída)
+* Identificar fatores que podem reduzir custos (instâncias reservadas, capacidade reservada, benefício de uso híbrido, preço à vista)
+* Descrever a funcionalidade e uso da calculadora de preços e a calculadora do custo total de propriedade (TCO)
+* Descrever a funcionalidade e o uso do Azure Cost Management
+### Descrever os Contratos de Nível de Serviço (SLAs) do Azure e os ciclos de vida do serviço
+* Descrever a finalidade de um Contrato de Nível de Serviço (SLA) do Azure
+* Identificar ações que podem afetar um SLA (ou seja, zonas de disponibilidade)
+* Descrever o ciclo de vida do serviço no Azure (Visualização Pública e Disponibilidade Geral
 
 
 
