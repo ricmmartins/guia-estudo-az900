@@ -33,13 +33,33 @@ Agilidade e Recuperação de Desastres
 * Descrever nuvem privada
 * Descrever nuvem híbrida
 * Comparar e contrastar os três tipos de computação em nuvem
+### Descrever os Serviços Principais do Azure (15-20%)
+#### Descrever os principais componentes arquitetônicos do Azure
+* Descrever os benefícios e uso de regiões e pares de regiões
+* Descrever os benefícios e o uso das zonas de disponibilidade
+* Descrever os benefícios e uso de Grupos de Recursos
+* Descrever os benefícios e uso de Assinaturas
+* Descrever os benefícios e uso dos Grupos de Gerenciamento
+* Descrever os benefícios e o uso do Azure Resource Manager
+* Explicar os recursos do Azure
+#### Descrever os principais recursos disponíveis no Azure
+* Descrever os benefícios e o uso de Máquinas Virtuais, Azure App Services, Azure
+Instâncias de Contêiner (ACI), Serviço de Kubernetes do Azure (AKS) e Área de Trabalho Virtual do Azure
+* Descrever os benefícios e uso de Redes Virtuais, Gateway VPN, Rede Virtual
+emparelhamento e ExpressRoute
+* Descrever os benefícios e uso do Container (Blob) Storage, Disk Storage, File Storage,
+e camadas de armazenamento
+* Descrever os benefícios e uso do Cosmos DB, Banco de Dados SQL do Azure, Banco de Dados do Azure para
+MySQL, Banco de Dados do Azure para PostgreSQL e Instância Gerenciada de SQL do Azure
+* Descrever os benefícios e o uso do Azure Marketplace
+
 
 
 
 ## Extras
 
-[DEtalhes sobre o exame Az-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
-[Poster de Certificações](http://aka.ms/traincertposter)
-[Crie uma conta de Azure gratuita](https://azure.microsoft.com/pt-br/free/)
-[Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
+* [DEtalhes sobre o exame Az-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
+* [Poster de Certificações](http://aka.ms/traincertposter)
+* [Crie uma conta de Azure gratuita](https://azure.microsoft.com/pt-br/free/)
+* [Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
 
