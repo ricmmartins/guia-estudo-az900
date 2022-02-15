@@ -5,12 +5,12 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 
 ## Roteiros de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para o Exame Az-900
 
-[Princípios básicos do Microsoft Azure: descrever os principais conceitos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts/)
-[Princípios básicos do Microsoft Azure: descrever os principais serviços do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-azure-services/)
-[Princípios Básicos do Microsoft Azure: descrever as principais soluções e ferramentas de gerenciamento no Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
-[Princípios Básicos do Microsoft Azure: descrever os recursos gerais de segurança de rede e segurança](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-general-security-network-security-features/)
-[Princípios Básicos do Microsoft Azure: descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
-[Conceitos básicos do Microsoft Azure: descrever os contratos de nível de serviço e gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+* [Princípios básicos do Microsoft Azure: descrever os principais conceitos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts/)
+* [Princípios básicos do Microsoft Azure: descrever os principais serviços do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-azure-services/)
+* [Princípios Básicos do Microsoft Azure: descrever as principais soluções e ferramentas de gerenciamento no Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+* [Princípios Básicos do Microsoft Azure: descrever os recursos gerais de segurança de rede e segurança](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-general-security-network-security-features/)
+* [Princípios Básicos do Microsoft Azure: descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+* [Conceitos básicos do Microsoft Azure: descrever os contratos de nível de serviço e gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
 ## Conhecimentos medidos para o Exame
 
