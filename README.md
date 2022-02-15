@@ -140,6 +140,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Definir o Azure Active Directory
 * Descrever a funcionalidade e o uso do Azure Active Directory
 * Descrever a funcionalidade e uso do Acesso Condicional, Autenticação Multifator (MFA) e Logon único (SSO)
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
 #### Descrever os recursos de governança do Azure
 * Descrever a funcionalidade e o uso do Controle de Acesso Baseado em Função (RBAC)
 * Descrever a funcionalidade e uso de bloqueios de recursos
@@ -147,22 +148,26 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Descrever a funcionalidade e o uso do Azure Policy
 * Descrever a funcionalidade e o uso dos Blueprints do Azure
 * Descrever o Cloud Adoption Framework para Azure
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/build-cloud-governance-strategy-azure/)
 #### Descrever recursos de privacidade e conformidade
 * Descrever os princípios básicos da Microsoft de Segurança, Privacidade e Conformidade
 * Descrever a finalidade da Declaração de Privacidade da Microsoft, Termos de Serviços Online (OST) e Emenda de Proteção de Dados (DPA)
 * Descrever o propósito da Central de Confiabilidade
 * Ddescrever a finalidade da documentação de conformidade do Azure
 * Descrever a finalidade das Regiões Soberanas do Azure (serviços de nuvem do Azure Government e serviços de nuvem do Azure China)
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/examine-privacy-compliance-data-protection-standards/)
 ### Descrever o gerenciamento de custos do Azure e os Contratos de Nível de Serviço (10-15%)
 #### Descrever métodos para planejar e gerenciar custos
 * Identificar fatores que podem afetar os custos (tipos de recursos, serviços, locais, entrada e tráfego de saída)
 * Identificar fatores que podem reduzir custos (instâncias reservadas, capacidade reservada, benefício de uso híbrido, preço à vista)
 * Descrever a funcionalidade e uso da calculadora de preços e a calculadora do custo total de propriedade (TCO)
 * Descrever a funcionalidade e o uso do Azure Cost Management
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
 #### Descrever os Contratos de Nível de Serviço (SLAs) do Azure e os ciclos de vida do serviço
 * Descrever a finalidade de um Contrato de Nível de Serviço (SLA) do Azure
 * Identificar ações que podem afetar um SLA (ou seja, zonas de disponibilidade)
 * Descrever o ciclo de vida do serviço no Azure (Visualização Pública e Disponibilidade Geral
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/)
 
 ## Roteiros de Aprendizado adicionais do [Microsoft Learn](https://aka.ms/learn) **recomendados** para sua rotina de estudos 
 
