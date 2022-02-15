@@ -16,8 +16,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
-* Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade,
-Agilidade e Recuperação de Desastres
+* Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade e recuperação de desastres
 * Identificar as diferenças entre Despesas de Capital (CapEx) e Despesas Operacionais (OpEx)
 * Descrever o modelo baseado em consumo
 #### Descrever as diferenças entre as categorias de serviços em nuvem
@@ -45,21 +44,15 @@ Agilidade e Recuperação de Desastres
 #### Descrever os principais recursos disponíveis no Azure
 * Descrever os benefícios e o uso de Máquinas Virtuais, Azure App Services, Instâncias de Contêiner do Azure (ACI), Serviço de Kubernetes do Azure (AKS) e Área de Trabalho Virtual do Azure
 * Descrever os benefícios e uso de Redes Virtuais, VPN Gateway, Emparelhamento de Rede Virtual e Express Route
-* Descrever os benefícios e uso do Container (Blob) Storage, Disk Storage, File Storage,
-e camadas de armazenamento
-* Descrever os benefícios e uso do Cosmos DB, Banco de Dados SQL do Azure, Banco de Dados do Azure para
-MySQL, Banco de Dados do Azure para PostgreSQL e Instância Gerenciada de SQL do Azure
+* Descrever os benefícios e uso do Container (Blob) Storage, Disk Storage, File Storage, e camadas de armazenamento
+* Descrever os benefícios e uso do Cosmos DB, Banco de Dados SQL do Azure, Banco de Dados do Azure para MySQL, Banco de Dados do Azure para PostgreSQL e Instância Gerenciada de SQL do Azure
 * Descrever os benefícios e o uso do Azure Marketplace
 #### Descrever as principais soluções e ferramentas de gerenciamento no Azure (10-15%)
 ### Descrever as principais soluções disponíveis no Azure
-* Descrever os benefícios e o uso do Hub da Internet das Coisas (IoT), IoT Central e Azure
-Esfera
-* Descrever os benefícios e o uso do Azure Synapse Analytics, HDInsight e Azure
-Databricks
-* Descrever os benefícios e o uso do Azure Machine Learning, Cognitive Services e
-Serviço de bot do Azure
-* Descrever os benefícios e o uso de soluções de computação sem servidor que incluem o Azure
-Functions e Logic Apps
+* Descrever os benefícios e o uso do Hub da Internet das Coisas (IoT), IoT Central e Azure Sphere 
+* Descrever os benefícios e o uso do Azure Synapse Analytics, HDInsight e Azure Databricks
+* Descrever os benefícios e o uso do Azure Machine Learning, Cognitive Services e Serviço de bot do Azure
+* Descrever os benefícios e o uso de soluções de computação sem servidor que incluem o Azure Functions e Logic Apps
 * Descrever os benefícios e o uso do Azure DevOps, GitHub, GitHub Actions e Azure DevTest Labs
 ### Descrever as ferramentas de gerenciamento do Azure
 * Descrever a funcionalidade e o uso do Portal do Azure, Azure PowerShell, CLI do Azure, Cloud Shell e aplicativo móvel do Azure
