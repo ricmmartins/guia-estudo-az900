@@ -231,8 +231,13 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 
 :bookmark: Módulo do Microsoft Learn cobrindo todos estes tópicos: [Escolha os serviços do Azure certos examinando SLAs e ciclo de vida do serviço](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/)
 
-## Roteiros de Aprendizado adicionais do [Microsoft Learn](https://aka.ms/learn) **recomendados** para sua rotina de estudos 
+## Extras
 
+* [Detalhes sobre o exame Az-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
+* [Poster de Certificações](http://aka.ms/traincertposter)
+* [Crie uma conta de Azure gratuita](https://azure.microsoft.com/pt-br/free/)
+* [Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
+* [Azure Infrastructure Map](http://infrastructuremap.microsoft.com/)
 * [Noções básicas da administração de nuvem](https://docs.microsoft.com/pt-br/learn/paths/cmu-admin/)
   * [Fundamentos da computaçãom em nuvem para administradores](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
   * [Provisionar e gerenciar serviços de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
@@ -241,12 +246,3 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Dimensionse seus recursos de nuvem com elasticidade](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
   * [Automatizar o gerenciamento de recursos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
   * [Monitorar recursos da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-
-## Extras
-
-* [Detalhes sobre o exame Az-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
-* [Poster de Certificações](http://aka.ms/traincertposter)
-* [Crie uma conta de Azure gratuita](https://azure.microsoft.com/pt-br/free/)
-* [Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
-* [Azure Infrastructure Map](http://infrastructuremap.microsoft.com/)
-
