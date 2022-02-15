@@ -165,7 +165,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Identificar fatores que podem reduzir custos (instâncias reservadas, capacidade reservada, benefício de uso híbrido, preço à vista)
 * Descrever a funcionalidade e uso da calculadora de preços e a calculadora do custo total de propriedade (TCO)
 * Descrever a funcionalidade e o uso do Azure Cost Management
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
+* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Planeje e gerencie seus custos do Azure](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
 #### Descrever os Contratos de Nível de Serviço (SLAs) do Azure e os ciclos de vida do serviço
 * Descrever a finalidade de um Contrato de Nível de Serviço (SLA) do Azure
 * Identificar ações que podem afetar um SLA (ou seja, zonas de disponibilidade)
