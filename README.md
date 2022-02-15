@@ -246,3 +246,6 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Dimensionse seus recursos de nuvem com elasticidade](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
   * [Automatizar o gerenciamento de recursos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
   * [Monitorar recursos da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+
+## Mostre seu apoio
+Clicque na ⭐️ se este projeto ajudou você!
