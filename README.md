@@ -155,7 +155,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Tenants (locatários) do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/develop/quickstart-create-new-tenant)
 * Descrever a funcionalidade e uso do Acesso Condicional, Autenticação Multifator (MFA) e Logon único (SSO)
   * [O que é o acesso condicional](https://docs.microsoft.com/pt-br/azure/active-directory/conditional-access/overview)
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
+Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
 #### Descrever os recursos de governança do Azure
 * Descrever a funcionalidade e o uso do Controle de Acesso Baseado em Função (RBAC)
 * Descrever a funcionalidade e uso de bloqueios de recursos
