@@ -142,6 +142,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [O que é o Firewall do Azure](https://docs.microsoft.com/pt-br/azure/firewall/overview)
 * Descrever a funcionalidade e o uso da proteção contra DDoS do Azure
   * [Visão geral do serviço de proteção contra DDoS do Azure](https://docs.microsoft.com/pt-br/azure/ddos-protection/ddos-protection-overview)
+
 ✔️ Módulo do Microsoft Learn cobrido todos estes tópicos: [Conectividade de rede segura no Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/)
 ### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 #### Descrever os principais serviços de identidade do Azure
