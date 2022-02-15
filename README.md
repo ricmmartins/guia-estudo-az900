@@ -61,7 +61,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Replicação entre regiões](https://docs.microsoft.com/pt-br/azure/availability-zones/cross-region-replication-azure#cross-region-replication)
 * Descrever os benefícios e o uso das zonas de disponibilidade
   * [Regiões e zonas de disponibilidade](https://docs.microsoft.com/pt-br/azure/availability-zones/overview#regions-and-availability-zones)
-  * [Visão geral das regiÕes e zonas de disponibilidade](https://docs.microsoft.com/pt-br/azure/availability-zones/az-overview)
+  * [Visão geral das regiões e zonas de disponibilidade](https://docs.microsoft.com/pt-br/azure/availability-zones/az-overview)
   * [Regiões do Azure, zonas de disponibilidade e pares de regiões - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
   * [Infográfico de resiliência no Azure](https://azure.microsoft.com/pt-br/resources/azure-resiliency-infographic/)
 * Descrever os benefícios e uso de Grupos de Recursos
@@ -83,34 +83,57 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Explicar os recursos do Azure
 #### Descrever os principais recursos disponíveis no Azure
 * Descrever os benefícios e o uso de Máquinas Virtuais, Azure App Services, Instâncias de Contêiner do Azure (ACI), Serviço de Kubernetes do Azure (AKS) e Área de Trabalho Virtual do Azure
+  * [Explore os serviços de computação do Azure](https://docs.microsoft.com/pt-br/learn/modules/azure-compute-fundamentals/) 
 * Descrever os benefícios e uso de Redes Virtuais, VPN Gateway, Emparelhamento de Rede Virtual e Express Route
+  * [Explore os serviços de rede do Azure](https://docs.microsoft.com/pt-br/learn/modules/azure-networking-fundamentals/) 
 * Descrever os benefícios e uso do Container (Blob) Storage, Disk Storage, File Storage, e camadas de armazenamento
+  * [Explore os serviços de storage do Azure](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/)
 * Descrever os benefícios e uso do Cosmos DB, Banco de Dados SQL do Azure, Banco de Dados do Azure para MySQL, Banco de Dados do Azure para PostgreSQL e Instância Gerenciada de SQL do Azure
+  * [Explore os serviços de banco de dados e análise de dados do Azure](https://docs.microsoft.com/pt-br/learn/modules/azure-database-fundamentals/)
 * Descrever os benefícios e o uso do Azure Marketplace
+  * [O que é o Azure Marketplace?](https://docs.microsoft.com/pt-br/marketplace/azure-marketplace-overview) 
 #### Descrever as principais soluções e ferramentas de gerenciamento no Azure (10-15%)
 ### Descrever as principais soluções disponíveis no Azure
 * Descrever os benefícios e o uso do Hub da Internet das Coisas (IoT), IoT Central e Azure Sphere 
+  * [Descubra os serviços de IoT do Azure e seus benefícios](https://docs.microsoft.com/pt-br/learn/modules/iot-fundamentals/)
 * Descrever os benefícios e o uso do Azure Synapse Analytics, HDInsight e Azure Databricks
+  * [Introdução ao Azure Synapse Analytics](https://docs.microsoft.com/pt-br/learn/modules/introduction-azure-synapse-analytics/)
+  * [Introdução ao HDInsight](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-hdinsight/)
+  * [Introdução ao Azure Databricks](https://docs.microsoft.com/pt-br/learn/modules/get-started-azure-databricks/)
 * Descrever os benefícios e o uso do Azure Machine Learning, Cognitive Services e Serviço de bot do Azure
+  * [Descubra os serviços de IA do Azure e seus benefícios](https://docs.microsoft.com/pt-br/learn/modules/ai-machine-learning-fundamentals/) 
 * Descrever os benefícios e o uso de soluções de computação sem servidor que incluem o Azure Functions e Logic Apps
+  * [Descubra os serviços de computação sem servidor (serverless) do Azure](https://docs.microsoft.com/pt-br/learn/modules/serverless-fundamentals/) 
 * Descrever os benefícios e o uso do Azure DevOps, GitHub, GitHub Actions e Azure DevTest Labs
+  * [Introdução ao Azure DevOps, Github e Azure DevTest Labs](https://docs.microsoft.com/pt-br/learn/modules/azure-devops-devtest-labs/)
 ### Descrever as ferramentas de gerenciamento do Azure
 * Descrever a funcionalidade e o uso do Portal do Azure, Azure PowerShell, CLI do Azure, Cloud Shell e aplicativo móvel do Azure
+  * [Fundamentos de gerenciamento do Azure](https://docs.microsoft.com/pt-br/learn/modules/management-fundamentals/) 
 * Descrever a funcionalidade e o uso do Azure Advisor
+  * [Introdução ao Azure Advisor](https://docs.microsoft.com/pt-br/azure/advisor/advisor-overview)
+  * [Módulo de Introdução ao Azure Advisor no Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-advisor/)
 * Descrever a funcionalidade e o uso de modelos do Azure Resource Manager (ARM)
+  * [O que são os Templates ARM](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/overview)
+  * [Implantar e gerenciar recursos no Azure usando modelos do ARM em JSON](https://docs.microsoft.com/pt-br/learn/paths/deploy-manage-resource-manager-templates/)
 * Descrever a funcionalidade e o uso do Azure Monitor
+  * [Fundamentos de monitoramento do Azure](https://docs.microsoft.com/pt-br/learn/modules/monitoring-fundamentals/) 
+  * [Visão geral do Azure Monitor](https://docs.microsoft.com/pt-br/azure/azure-monitor/overview) 
 * Descrever a funcionalidade e o uso do Azure Service Health
+  * [O que é o Azure Service Health](https://docs.microsoft.com/pt-br/azure/service-health/overview)
+  * [Introdução ao Service Health](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-service-health/)
 #### Descrever recursos gerais de segurança e segurança de rede (10-15%)
 ### Descrever os recursos de segurança do Azure
 * Descrever os recursos básicos da Central de Segurança do Azure, incluindo conformidade com políticas, segurança, alertas, pontuação segura e higiene de recursos
 * Descrever a funcionalidade e o uso do Azure Key Vault
 * Descrever a funcionalidade e o uso do Azure Sentinel
 * Descrever a funcionalidade e o uso dos Hosts Dedicados do Azure
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/protect-against-security-threats-azure/)
 ### Descrever a segurança de rede do Azure
 * Descrever o conceito de defesa em profundidade
 * Descrever a funcionalidade e o uso de Grupos de Segurança de Rede (NSG)
 * Descrever a funcionalidade e o uso do Firewall do Azure
 * Descrever a funcionalidade e o uso da proteção contra DDoS do Azure
+* [Módulo do Microsoft Learn cobrindo estes 4 tópicos acima descritos](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/)
 #### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 ### Descrever os principais serviços de identidade do Azure
 * Explicar a diferença entre autenticação e autorização
