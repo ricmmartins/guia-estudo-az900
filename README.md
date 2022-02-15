@@ -12,19 +12,26 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * [Princípios Básicos do Microsoft Azure: descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 * [Conceitos básicos do Microsoft Azure: descrever os contratos de nível de serviço e gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
-## Conhecimentos medidos para o Exame
+## Roteiros de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para recomendados para sua rotina de estudos
+
+* [Noções básicas da administração de nuvem](https://docs.microsoft.com/pt-br/learn/paths/cmu-admin/)
+
+## Conhecimentos avaliados para o Exame
 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
 * Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade e recuperação de desastres
   * [O que é computação em nuvem](https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/#benefits)
+  * [O que é a computação em nuvem - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
   * [Benefícios da migração para nuvem](https://azure.microsoft.com/pt-br/overview/cloud-migration-benefits-challenges/#overview)
-  * [Cenários de adoção de nuvem](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
   * [Como funciona o Azure](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/what-is-azure)
 * Identificar as diferenças entre Despesas de Capital (CapEx) e Despesas Operacionais (OpEx)
+  * [Casos de uso da Nuvem: CapEx, OpEx](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/07-economics)   
 * Descrever o modelo baseado em consumo
+  * [Casos de uso da Nuvem: Economias de escala](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/07-economics)
 #### Descrever as diferenças entre as categorias de serviços em nuvem
 * Descrever o modelo de responsabilidade compartilhada
+  * [Responsabilidade compartilhada na nuvem](https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility)
 * Descrever a infraestrutura como serviço (IaaS),
 * Descrever Platform-as-a-Service (PaaS)
 * Descrever computação sem servidor
