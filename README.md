@@ -37,7 +37,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Despesas de capital versus despesas operacionais](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 * Descrever o modelo baseado em consumo
   * [A computação em nuvem é um modelo baseado em consumo](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
-  #### Descrever as diferenças entre as categorias de serviços em nuvem
+#### Descrever as diferenças entre as categorias de serviços em nuvem
 * Descrever o modelo de responsabilidade compartilhada
   * [Responsabilidade compartilhada na nuvem](https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility)
 * Descrever a infraestrutura como serviço (IaaS)
