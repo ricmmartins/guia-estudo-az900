@@ -15,6 +15,13 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 ## Roteiros de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para recomendados para sua rotina de estudos
 
 * [Noções básicas da administração de nuvem](https://docs.microsoft.com/pt-br/learn/paths/cmu-admin/)
+  * [Fundamentos da computaçãom em nuvem para administradores](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Provisionar e gerenciar serviços de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Proteja seus recursos de nuvem com controle de acesso](https://docs.microsoft.com/pt-br/learn/modules/cmu-secure-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Virtualizar recursos na nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-virtualization/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Dimensionse seus recursos de nuvem com elasticidade](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Automatizar o gerenciamento de recursos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Monitorar recursos da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
 ## Conhecimentos avaliados para o Exame
 
