@@ -17,6 +17,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
 * Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade e recuperação de desastres
+  * Teste
 * Identificar as diferenças entre Despesas de Capital (CapEx) e Despesas Operacionais (OpEx)
 * Descrever o modelo baseado em consumo
 #### Descrever as diferenças entre as categorias de serviços em nuvem
@@ -110,4 +111,5 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * [Poster de Certificações](http://aka.ms/traincertposter)
 * [Crie uma conta de Azure gratuita](https://azure.microsoft.com/pt-br/free/)
 * [Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
+* [Azure Infrastructure Map](http://infrastructuremap.microsoft.com/)
 
