@@ -13,7 +13,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * [Princípios Básicos do Microsoft Azure: descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 * [Conceitos básicos do Microsoft Azure: descrever os contratos de nível de serviço e gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
-## 📝 Conhecimentos avaliados para o Exame - [Obtidos aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+## 📝 Conhecimentos avaliados para o Exame - [Obtidos no link oficial](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
