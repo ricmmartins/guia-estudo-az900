@@ -15,7 +15,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 
 ## 📝 Conhecimentos avaliados para o Exame - [Obtidos no link oficial](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
-### Descrever os conceitos de nuvem (20-25%)
+### :bulb: Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
 * Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade e recuperação de desastres
   * [Quais são algumas vantagens da computação em nuvem?](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
