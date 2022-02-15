@@ -17,7 +17,10 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
 * Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade e recuperação de desastres
-  * Teste
+  * [O que é computação em nuvem](https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/#benefits)
+  * [Benefícios da migração para nuvem](https://azure.microsoft.com/pt-br/overview/cloud-migration-benefits-challenges/#overview)
+  * [Cenários de adoção de nuvem](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
+  * [Como funciona o Azure](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/what-is-azure)
 * Identificar as diferenças entre Despesas de Capital (CapEx) e Despesas Operacionais (OpEx)
 * Descrever o modelo baseado em consumo
 #### Descrever as diferenças entre as categorias de serviços em nuvem
