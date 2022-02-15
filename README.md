@@ -12,17 +12,6 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * [Princípios Básicos do Microsoft Azure: descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 * [Conceitos básicos do Microsoft Azure: descrever os contratos de nível de serviço e gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
-## Roteiros de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para recomendados para sua rotina de estudos
-
-* [Noções básicas da administração de nuvem](https://docs.microsoft.com/pt-br/learn/paths/cmu-admin/)
-  * [Fundamentos da computaçãom em nuvem para administradores](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Provisionar e gerenciar serviços de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Proteja seus recursos de nuvem com controle de acesso](https://docs.microsoft.com/pt-br/learn/modules/cmu-secure-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Virtualizar recursos na nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-virtualization/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Dimensionse seus recursos de nuvem com elasticidade](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Automatizar o gerenciamento de recursos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Monitorar recursos da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-
 ## Conhecimentos avaliados para o Exame
 
 ### Descrever os conceitos de nuvem (20-25%)
@@ -64,7 +53,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Comparar e contrastar os três tipos de computação em nuvem
   * [Discutir diferentes tipos de modelos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) 
 ### Descrever os Serviços Principais do Azure (15-20%)
-#### Descrever os principais componentes arquitetônicos do Azure
+#### Descrever os principais componentes da arquitetura do Azure
 * Descrever os benefícios e uso de regiões e pares de regiões
   * [Pares de regiões](https://docs.microsoft.com/pt-br/azure/virtual-machines/regions#region-pairs)
   * [Lista completa de pareamento das regiões](https://docs.microsoft.com/pt-br/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies)
@@ -122,8 +111,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Descrever a funcionalidade e o uso de Grupos de Segurança de Rede (NSG)
 * Descrever a funcionalidade e o uso do Firewall do Azure
 * Descrever a funcionalidade e o uso da proteção contra DDoS do Azure
-#### Descrever os recursos de identidade, governança, privacidade e conformidade (15-
-20%)
+#### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 ### Descrever os principais serviços de identidade do Azure
 * Explicar a diferença entre autenticação e autorização
 * Definir o Azure Active Directory
@@ -153,11 +141,20 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Identificar ações que podem afetar um SLA (ou seja, zonas de disponibilidade)
 * Descrever o ciclo de vida do serviço no Azure (Visualização Pública e Disponibilidade Geral
 
+## Roteiros de Aprendizado adicionais do [Microsoft Learn](https://aka.ms/learn) **recomendados** para sua rotina de estudos 
 
+* [Noções básicas da administração de nuvem](https://docs.microsoft.com/pt-br/learn/paths/cmu-admin/)
+  * [Fundamentos da computaçãom em nuvem para administradores](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Provisionar e gerenciar serviços de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Proteja seus recursos de nuvem com controle de acesso](https://docs.microsoft.com/pt-br/learn/modules/cmu-secure-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Virtualizar recursos na nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-virtualization/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Dimensionse seus recursos de nuvem com elasticidade](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Automatizar o gerenciamento de recursos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Monitorar recursos da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
 ## Extras
 
-* [DEtalhes sobre o exame Az-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
+* [Detalhes sobre o exame Az-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
 * [Poster de Certificações](http://aka.ms/traincertposter)
 * [Crie uma conta de Azure gratuita](https://azure.microsoft.com/pt-br/free/)
 * [Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
