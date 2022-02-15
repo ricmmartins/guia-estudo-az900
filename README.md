@@ -28,28 +28,41 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
 * Identificar os benefícios da computação em nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade e recuperação de desastres
-  * [O que é computação em nuvem](https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/#benefits)
-  * [O que é a computação em nuvem - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
+  * [Quais são algumas vantagens da computação em nuvem?](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [Benefícios da computação em nuvem](https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/#benefits)
   * [Benefícios da migração para nuvem](https://azure.microsoft.com/pt-br/overview/cloud-migration-benefits-challenges/#overview)
   * [Como funciona o Azure](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/what-is-azure)
 * Identificar as diferenças entre Despesas de Capital (CapEx) e Despesas Operacionais (OpEx)
-  * [Casos de uso da Nuvem: CapEx, OpEx](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/07-economics)   
+  * [Casos de uso da Nuvem: CapEx, OpEx](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/07-economics)
+  * [Despesas de capital versus despesas operacionais](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 * Descrever o modelo baseado em consumo
-  * [Casos de uso da Nuvem: Economias de escala](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/07-economics)
-#### Descrever as diferenças entre as categorias de serviços em nuvem
+  * [A computação em nuvem é um modelo baseado em consumo](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  #### Descrever as diferenças entre as categorias de serviços em nuvem
 * Descrever o modelo de responsabilidade compartilhada
   * [Responsabilidade compartilhada na nuvem](https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility)
-* Descrever a infraestrutura como serviço (IaaS),
+* Descrever a infraestrutura como serviço (IaaS)
+  * [O que é IaaS](https://azure.microsoft.com/pt-br/overview/what-is-iaas/) 
 * Descrever Platform-as-a-Service (PaaS)
+  * [O que é PaaS](https://azure.microsoft.com/pt-br/overview/what-is-paas/) 
 * Descrever computação sem servidor
+  * [O que é computação sem servidor](https://azure.microsoft.com/pt-br/overview/serverless-computing/) 
 * Descrever Software-as-a-Service (SaaS)
+  * [O que é SaaS](https://azure.microsoft.com/pt-br/overview/what-is-saas/) 
 * Identificar um tipo de serviço com base em um caso de uso
+  * [Quais os tipos de computação em nuvem](https://azure.microsoft.com/pt-br/overview/types-of-cloud-computing/)
+  * [Descrever diferentes serviços de nuvem](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)
+  * [Blocos de construção da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/04-building-blocks)
 #### Descrever as diferenças entre os tipos de computação em nuvem
 * Definir computação em nuvem
+  * [O que é a computação em nuvem - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
 * Descrever nuvem pública
+  * [O que é nuvem pública?](https://azure.microsoft.com/pt-br/overview/what-is-a-public-cloud/)
 * Descrever nuvem privada
+  * [O que é nuvem privada?](https://azure.microsoft.com/pt-br/overview/what-is-a-private-cloud/)
 * Descrever nuvem híbrida
+  * [O que é nuvem híbrida?](https://azure.microsoft.com/pt-br/overview/what-is-hybrid-cloud-computing/)
 * Comparar e contrastar os três tipos de computação em nuvem
+  * [Discutir diferentes tipos de modelos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) 
 ### Descrever os Serviços Principais do Azure (15-20%)
 #### Descrever os principais componentes arquitetônicos do Azure
 * Descrever os benefícios e uso de regiões e pares de regiões
