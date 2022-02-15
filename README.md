@@ -4,7 +4,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 
 *Última atualização em 15 de Fevereiro de 2022*
 
-## Roteiros de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para o Exame Az-900
+## Roteiro de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para o Exame Az-900
 
 * [Princípios básicos do Microsoft Azure: descrever os principais conceitos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts/)
 * [Princípios básicos do Microsoft Azure: descrever os principais serviços do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-azure-services/)
