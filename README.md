@@ -53,7 +53,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [O que é nuvem híbrida?](https://azure.microsoft.com/pt-br/overview/what-is-hybrid-cloud-computing/)
 * Comparar e contrastar os três tipos de computação em nuvem
   * [Discutir diferentes tipos de modelos de nuvem](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) 
-### Descrever os Serviços Principais do Azure (15-20%)
+### :bulb: Descrever os Serviços Principais do Azure (15-20%)
 #### Descrever os principais componentes da arquitetura do Azure
 * Descrever os benefícios e uso de regiões e pares de regiões
   * [Pares de regiões](https://docs.microsoft.com/pt-br/azure/virtual-machines/regions#region-pairs)
@@ -91,7 +91,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Explore os serviços de banco de dados e análise de dados do Azure](https://docs.microsoft.com/pt-br/learn/modules/azure-database-fundamentals/)
 * Descrever os benefícios e o uso do Azure Marketplace
   * [O que é o Azure Marketplace?](https://docs.microsoft.com/pt-br/marketplace/azure-marketplace-overview) 
-### Descrever as principais soluções e ferramentas de gerenciamento no Azure (10-15%)
+### :bulb: Descrever as principais soluções e ferramentas de gerenciamento no Azure (10-15%)
 #### Descrever as principais soluções disponíveis no Azure
 * Descrever os benefícios e o uso do Hub da Internet das Coisas (IoT), IoT Central e Azure Sphere 
   * [Descubra os serviços de IoT do Azure e seus benefícios](https://docs.microsoft.com/pt-br/learn/modules/iot-fundamentals/)
@@ -120,7 +120,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Descrever a funcionalidade e o uso do Azure Service Health
   * [O que é o Azure Service Health](https://docs.microsoft.com/pt-br/azure/service-health/overview)
   * [Introdução ao Service Health](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-service-health/)
-### Descrever recursos gerais de segurança e segurança de rede (10-15%)
+### :bulb: Descrever recursos gerais de segurança e segurança de rede (10-15%)
 #### Descrever os recursos de segurança do Azure
 * Descrever os recursos básicos da Central de Segurança do Azure, incluindo conformidade com políticas, segurança, alertas, pontuação segura e higiene de recursos
   * [Protegendo-se contra ameaças à segurança no Azure](https://docs.microsoft.com/pt-br/learn/modules/protect-against-security-threats-azure/)
@@ -144,7 +144,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Visão geral do serviço de proteção contra DDoS do Azure](https://docs.microsoft.com/pt-br/azure/ddos-protection/ddos-protection-overview)
 
 ✔️ Módulo do Microsoft Learn cobrido todos estes tópicos: [Conectividade de rede segura no Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/)
-### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
+### :bulb: Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 #### Descrever os principais serviços de identidade do Azure
 * Explicar a diferença entre autenticação e autorização
   * [Autenticação versus autorização](https://docs.microsoft.com/pt-br/azure/active-directory/develop/authentication-vs-authorization)
@@ -199,7 +199,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Azure para o governo dos EUA](https://azure.microsoft.com/pt-br/global-infrastructure/government/#why-azure)
 
 ✔️ Módulo do Microsoft Learn cobrindo todos estes tópicos: [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure](https://docs.microsoft.com/pt-br/learn/modules/examine-privacy-compliance-data-protection-standards/)
-### Descrever o gerenciamento de custos do Azure e os Contratos de Nível de Serviço (10-15%)
+### :bulb: Descrever o gerenciamento de custos do Azure e os Contratos de Nível de Serviço (10-15%)
 #### Descrever métodos para planejar e gerenciar custos
 * Identificar fatores que podem afetar os custos (tipos de recursos, serviços, locais, entrada e tráfego de saída)
   * [Página sobre preços do Azure](https://azure.microsoft.com/pt-br/pricing/)
