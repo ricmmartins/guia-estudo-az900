@@ -71,9 +71,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [O que é uma assinatura do Azure](https://docs.microsoft.com/pt-br/learn/modules/configure-subscriptions/3-implement-azure-subscriptions)   
   * [Guia de decisão de assinaturas](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/decision-guides/subscriptions/)
   * [Tipos de assinaturas](https://docs.microsoft.com/pt-br/learn/modules/configure-subscriptions/4-obtain-subscription)
-  * [Como as assinaturas do Azure estão relacionadas com o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-  * [O que é o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
-* Descrever os benefícios e uso dos Grupos de Gerenciamento
+  * Descrever os benefícios e uso dos Grupos de Gerenciamento
   * [Organizar e gerenciar várias assinaturas do Azure com os grupos de gerenciamento](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)  
   * [O que são grupos de gerenciamento do Azure](https://docs.microsoft.com/pt-br/azure/governance/management-groups/overview)
   * [Visão geral de assinaturas, grupos de gerenciamento e recursos do Azure](https://docs.microsoft.com/pt-br/learn/modules/azure-architecture-fundamentals/overview)
@@ -147,9 +145,16 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 ### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 #### Descrever os principais serviços de identidade do Azure
 * Explicar a diferença entre autenticação e autorização
+  * [Autenticação versus autorização](https://docs.microsoft.com/pt-br/azure/active-directory/develop/authentication-vs-authorization)
 * Definir o Azure Active Directory
+  * [O que é o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
 * Descrever a funcionalidade e o uso do Azure Active Directory
+  * [Comparando o Active Directory com o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
+  * [Como as assinaturas do Azure se relacionam com o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+  * [Guia de implantação do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-deployment-checklist-p2)
+  * [Tenants (locatários) do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/develop/quickstart-create-new-tenant)
 * Descrever a funcionalidade e uso do Acesso Condicional, Autenticação Multifator (MFA) e Logon único (SSO)
+  * [O que é o acesso condicional](https://docs.microsoft.com/pt-br/azure/active-directory/conditional-access/overview)
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
 #### Descrever os recursos de governança do Azure
 * Descrever a funcionalidade e o uso do Controle de Acesso Baseado em Função (RBAC)
