@@ -4,7 +4,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 
 *Última atualização em 15 de Fevereiro de 2022*
 
-## Roteiro de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para o Exame Az-900
+## 📋 Roteiro de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para o Exame Az-900
 
 * [Princípios básicos do Microsoft Azure: descrever os principais conceitos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts/)
 * [Princípios básicos do Microsoft Azure: descrever os principais serviços do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-azure-services/)
@@ -13,7 +13,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * [Princípios Básicos do Microsoft Azure: descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 * [Conceitos básicos do Microsoft Azure: descrever os contratos de nível de serviço e gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
-## Conhecimentos avaliados para o Exame - [Obtidos aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+## 📝 Conhecimentos avaliados para o Exame - [Obtidos aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
 ### Descrever os conceitos de nuvem (20-25%)
 #### Identifique os benefícios e as considerações do uso de serviços em nuvem
@@ -142,7 +142,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [O que é o Firewall do Azure](https://docs.microsoft.com/pt-br/azure/firewall/overview)
 * Descrever a funcionalidade e o uso da proteção contra DDoS do Azure
   * [Visão geral do serviço de proteção contra DDoS do Azure](https://docs.microsoft.com/pt-br/azure/ddos-protection/ddos-protection-overview)
-* Módulo do Microsoft Learn cobrido todos estes tópicos: [Conectividade de rede segura no Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/)
+✔️ Módulo do Microsoft Learn cobrido todos estes tópicos: [Conectividade de rede segura no Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-network-connectivity-azure/)
 ### Descrever os recursos de identidade, governança, privacidade e conformidade (15-20%)
 #### Descrever os principais serviços de identidade do Azure
 * Explicar a diferença entre autenticação e autorização
@@ -156,7 +156,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Tenants (locatários) do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/develop/quickstart-create-new-tenant)
 * Descrever a funcionalidade e uso do Acesso Condicional, Autenticação Multifator (MFA) e Logon único (SSO)
   * [O que é o acesso condicional](https://docs.microsoft.com/pt-br/azure/active-directory/conditional-access/overview)
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
+* ✔️ Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
 #### Descrever os recursos de governança do Azure
 * Descrever a funcionalidade e o uso do Controle de Acesso Baseado em Função (RBAC)
   * [O que é o RBAC](https://docs.microsoft.com/pt-br/azure/role-based-access-control/overview)
@@ -174,7 +174,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Descrever o Cloud Adoption Framework para Azure
   * [O que é o Cloud Adoption Framework](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/overview)
   * [Inforgráfico sobre o CAF](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-adoption-framework/Cloud%20Adoption%20Framework.pdf)
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Criar uma estratégia de governança de nuvem no Azure](https://docs.microsoft.com/pt-br/learn/modules/build-cloud-governance-strategy-azure/)
+* ✔️ Módulo do Microsoft Learn cobrindo todos estes tópicos: [Criar uma estratégia de governança de nuvem no Azure](https://docs.microsoft.com/pt-br/learn/modules/build-cloud-governance-strategy-azure/)
 #### Descrever recursos de privacidade e conformidade
 * Descrever os princípios básicos da Microsoft de Segurança, Privacidade e Conformidade
   * [Segurança, Privacidade e Conformidade na Central de Confiabilidade](https://www.microsoft.com/pt-br/trust-center/product-overview)
@@ -194,7 +194,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Guia de decisão das regiões do Azure - Soberania nacional](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions)
   * [Azure China](https://docs.microsoft.com/pt-br/azure/china/overview-operations)
   * [Azure para o governo dos EUA](https://azure.microsoft.com/pt-br/global-infrastructure/government/#why-azure)
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure](https://docs.microsoft.com/pt-br/learn/modules/examine-privacy-compliance-data-protection-standards/)
+* ✔️ Módulo do Microsoft Learn cobrindo todos estes tópicos: [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure](https://docs.microsoft.com/pt-br/learn/modules/examine-privacy-compliance-data-protection-standards/)
 ### Descrever o gerenciamento de custos do Azure e os Contratos de Nível de Serviço (10-15%)
 #### Descrever métodos para planejar e gerenciar custos
 * Identificar fatores que podem afetar os custos (tipos de recursos, serviços, locais, entrada e tráfego de saída)
@@ -210,7 +210,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [O que é o Azure Cost Management](https://docs.microsoft.com/pt-br/azure/cost-management-billing/cost-management-billing-overview)
   * [Como otimizar seu investimento na nuvem com o Cost Management](https://docs.microsoft.com/pt-br/azure/cost-management-billing/costs/cost-mgt-best-practices)
   * [Planejando o gerenciamento de custos do Azure](https://docs.microsoft.com/pt-br/azure/cost-management-billing/understand/plan-manage-costs)
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Planeje e gerencie seus custos do Azure](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
+* ✔️ Módulo do Microsoft Learn cobrindo todos estes tópicos: [Planeje e gerencie seus custos do Azure](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
 #### Descrever os Contratos de Nível de Serviço (SLAs) do Azure e os ciclos de vida do serviço
 * Descrever a finalidade de um Contrato de Nível de Serviço (SLA) do Azure
   * [Contratos de nível de serviço do Azure](https://azure.microsoft.com/pt-br/support/legal/sla/)
@@ -223,7 +223,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Descrevendo as versões de disponibilidade particular (private preview), pública (public preview) e geral (ga/general available)](https://docs.microsoft.com/pt-br/learn/modules/describe-service-life-cycle-microsoft-365/2-private-public-general-availability)
   * [Termos suplementares sobre o uso de serviços em Preview](https://azure.microsoft.com/pt-br/support/legal/preview-supplemental-terms/)
   * [Diferenças entre serviços em GA, Private e Public Preview](https://vunvulear.medium.com/differences-between-ga-private-and-public-preview-on-azure-services-and-features-7ccdd42aa294)
-* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Escolha os serviços do Azure certos examinando SLAs e ciclo de vida do serviço](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/)
+* ✔️ Módulo do Microsoft Learn cobrindo todos estes tópicos: [Escolha os serviços do Azure certos examinando SLAs e ciclo de vida do serviço](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/)
 
 ## Roteiros de Aprendizado adicionais do [Microsoft Learn](https://aka.ms/learn) **recomendados** para sua rotina de estudos 
 
