@@ -248,4 +248,4 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Monitorar recursos da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
 ## Mostre seu apoio
-Clicque na ⭐️ se este maerial ajudou você!
+Clicque na ⭐️ se este material ajudou você!
