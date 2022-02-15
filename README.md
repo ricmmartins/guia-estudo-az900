@@ -212,8 +212,16 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Planeje e gerencie seus custos do Azure](https://docs.microsoft.com/pt-br/learn/modules/plan-manage-azure-costs/)
 #### Descrever os Contratos de Nível de Serviço (SLAs) do Azure e os ciclos de vida do serviço
 * Descrever a finalidade de um Contrato de Nível de Serviço (SLA) do Azure
+  * [Contratos de nível de serviço do Azure](https://azure.microsoft.com/pt-br/support/legal/sla/)
+  * [Sumário de SLA dos serviços do Azure](https://azure.microsoft.com/pt-br/support/legal/sla/summary/)
 * Identificar ações que podem afetar um SLA (ou seja, zonas de disponibilidade)
+  * [SLAs compostos](https://docs.microsoft.com/pt-br/azure/architecture/framework/resiliency/business-metrics#composite-slas)
+  * [SLAs para implantações de várias regiões](https://docs.microsoft.com/pt-br/azure/architecture/framework/resiliency/business-metrics#slas-for-multiregion-deployments)
 * Descrever o ciclo de vida do serviço no Azure (Visualização Pública e Disponibilidade Geral
+  * [O que é o ciclo de vida do serviço?](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/5-access-preview-services)
+  * [Descrevendo as versões de disponibilidade particular (private preview), pública (public preview) e geral (ga/general available)](https://docs.microsoft.com/pt-br/learn/modules/describe-service-life-cycle-microsoft-365/2-private-public-general-availability)
+  * [Termos suplementares sobre o uso de serviços em Preview](https://azure.microsoft.com/pt-br/support/legal/preview-supplemental-terms/)
+  * [Diferenças entre serviços em GA, Private e Public Preview](https://vunvulear.medium.com/differences-between-ga-private-and-public-preview-on-azure-services-and-features-7ccdd42aa294)
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Escolha os serviços do Azure certos examinando SLAs e ciclo de vida do serviço](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/)
 
 ## Roteiros de Aprendizado adicionais do [Microsoft Learn](https://aka.ms/learn) **recomendados** para sua rotina de estudos 
