@@ -66,11 +66,31 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 ### Descrever os Serviços Principais do Azure (15-20%)
 #### Descrever os principais componentes arquitetônicos do Azure
 * Descrever os benefícios e uso de regiões e pares de regiões
+  * [Pares de regiões](https://docs.microsoft.com/pt-br/azure/virtual-machines/regions#region-pairs)
+  * [Lista completa de pareamento das regiões](https://docs.microsoft.com/pt-br/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies)
+  * [Benefícios da replicação entre regiões](https://docs.microsoft.com/pt-br/azure/availability-zones/cross-region-replication-azure#benefits-of-cross-region-replication)
+  * [Replicação entre regiões](https://docs.microsoft.com/pt-br/azure/availability-zones/cross-region-replication-azure#cross-region-replication)
 * Descrever os benefícios e o uso das zonas de disponibilidade
+  * [Regiões e zonas de disponibilidade](https://docs.microsoft.com/pt-br/azure/availability-zones/overview#regions-and-availability-zones)
+  * [Visão geral das regiÕes e zonas de disponibilidade](https://docs.microsoft.com/pt-br/azure/availability-zones/az-overview)
+  * [Regiões do Azure, zonas de disponibilidade e pares de regiões - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
+  * [Infográfico de resiliência no Azure](https://azure.microsoft.com/pt-br/resources/azure-resiliency-infographic/)
 * Descrever os benefícios e uso de Grupos de Recursos
+  * [O que é um grupo de recursos](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)   
+  * [Fatores importantes para considerar sobre a definição de resource groups](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/overview#resource-groups)
 * Descrever os benefícios e uso de Assinaturas
+  * [O que é uma assinatura do Azure](https://docs.microsoft.com/pt-br/learn/modules/configure-subscriptions/3-implement-azure-subscriptions)   
+  * [Guia de decisão de assinaturas](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/decision-guides/subscriptions/)
+  * [Tipos de assinaturas](https://docs.microsoft.com/pt-br/learn/modules/configure-subscriptions/4-obtain-subscription)
+  * [Como as assinaturas do Azure estão relacionadas com o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+  * [O que é o Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
 * Descrever os benefícios e uso dos Grupos de Gerenciamento
+  * [Organizar e gerenciar várias assinaturas do Azure com os grupos de gerenciamento](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)  
+  * [O que são grupos de gerenciamento do Azure](https://docs.microsoft.com/pt-br/azure/governance/management-groups/overview)
+  * [Visão geral de assinaturas, grupos de gerenciamento e recursos do Azure](https://docs.microsoft.com/pt-br/learn/modules/azure-architecture-fundamentals/overview)
 * Descrever os benefícios e o uso do Azure Resource Manager
+  * [O que é o Azure Resource Manager](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/overview)
+  * [Benefícios do Gerenciador de Recursos](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/overview#the-benefits-of-using-resource-manager)
 * Explicar os recursos do Azure
 #### Descrever os principais recursos disponíveis no Azure
 * Descrever os benefícios e o uso de Máquinas Virtuais, Azure App Services, Instâncias de Contêiner do Azure (ACI), Serviço de Kubernetes do Azure (AKS) e Área de Trabalho Virtual do Azure
