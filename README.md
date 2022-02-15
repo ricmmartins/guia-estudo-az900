@@ -155,14 +155,24 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
   * [Tenants (locatários) do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/develop/quickstart-create-new-tenant)
 * Descrever a funcionalidade e uso do Acesso Condicional, Autenticação Multifator (MFA) e Logon único (SSO)
   * [O que é o acesso condicional](https://docs.microsoft.com/pt-br/azure/active-directory/conditional-access/overview)
-Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
+* Módulo do Microsoft Learn cobrindo todos estes tópicos: [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](https://docs.microsoft.com/pt-br/learn/modules/secure-access-azure-identity-services/)
 #### Descrever os recursos de governança do Azure
 * Descrever a funcionalidade e o uso do Controle de Acesso Baseado em Função (RBAC)
+  * [O que é o RBAC](https://docs.microsoft.com/pt-br/azure/role-based-access-control/overview)
 * Descrever a funcionalidade e uso de bloqueios de recursos
+  * [Bloqueando recursos para evitar alterações inesperadas](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/lock-resources) 
 * Descrever a funcionalidade e uso de tags
+  * [Uso de tags para organizar recursos do Azure e a hierarquia de gerenciamento](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/tag-resources)
+  * [Guia de decisão sobre o uso de tags](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/decision-guides/resource-tagging/#tagging-decision-guide)
 * Descrever a funcionalidade e o uso do Azure Policy
+  * [O que é o Azure Policy](https://docs.microsoft.com/pt-br/azure/governance/policy/overview)
+  * [Introdução ao Azure Policy](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-policy/)
 * Descrever a funcionalidade e o uso dos Blueprints do Azure
+  * [O que é o Azure Blueprints](https://docs.microsoft.com/pt-br/azure/governance/blueprints/overview)
+  * [Introdução ao Azure Blueprints](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-blueprints/)
 * Descrever o Cloud Adoption Framework para Azure
+  * [O que é o Cloud Adoption Framework](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/overview)
+  * [Inforgráfico sobre o CAF](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-adoption-framework/Cloud%20Adoption%20Framework.pdf)
 * Módulo do Microsoft Learn cobrindo todos estes tópicos: [Criar uma estratégia de governança de nuvem no Azure](https://docs.microsoft.com/pt-br/learn/modules/build-cloud-governance-strategy-azure/)
 #### Descrever recursos de privacidade e conformidade
 * Descrever os princípios básicos da Microsoft de Segurança, Privacidade e Conformidade
