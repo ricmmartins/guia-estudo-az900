@@ -224,7 +224,7 @@ Este guia tem por objetivo trazer uma lista de materiais pré-selecionados para 
 * Identificar ações que podem afetar um SLA (ou seja, zonas de disponibilidade)
   * [SLAs compostos](https://docs.microsoft.com/pt-br/azure/architecture/framework/resiliency/business-metrics#composite-slas)
   * [SLAs para implantações de várias regiões](https://docs.microsoft.com/pt-br/azure/architecture/framework/resiliency/business-metrics#slas-for-multiregion-deployments)
-* Descrever o ciclo de vida do serviço no Azure (Visualização Pública e Disponibilidade Geral
+* Descrever o ciclo de vida do serviço no Azure (Visualização Pública e Disponibilidade Geral)
   * [O que é o ciclo de vida do serviço?](https://docs.microsoft.com/pt-br/learn/modules/choose-azure-services-sla-lifecycle/5-access-preview-services)
   * [Descrevendo as versões de disponibilidade particular (private preview), pública (public preview) e geral (ga/general available)](https://docs.microsoft.com/pt-br/learn/modules/describe-service-life-cycle-microsoft-365/2-private-public-general-availability)
   * [Termos suplementares sobre o uso de serviços em Preview](https://azure.microsoft.com/pt-br/support/legal/preview-supplemental-terms/)
