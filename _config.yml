@@ -1,5 +1,5 @@
-title: Azure Fundamentals Guide
-description: Everything you need to know to pass on the AZ-900
+title: Guia de Fundamentos do Azure
+description: Tudo que você precisa saber para passar no exame AZ-900
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
