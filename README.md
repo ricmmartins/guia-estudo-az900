@@ -39,13 +39,13 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 
 #### Descrever os benefícios de usar serviços de nuvem
 * Descrever os benefícios de alta disponibilidade e escalabilidade na nuvem
-  * [Descrever os benefícios de alta disponibilidade e escalabilidade na nuvem](https://learn.microsoft.com/pt-br/training/modules/descrever-beneficios-usar-servicos-nuvem/2-alta-disponibilidade-escalabilidade-nuvem)
+  * [Descrever os benefícios de alta disponibilidade e escalabilidade na nuvem](https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 * Descrever os benefícios de confiabilidade e previsibilidade na nuvem
-  * [Descrever os benefícios de confiabilidade e previsibilidade na nuvem](https://learn.microsoft.com/pt-br/training/modules/descrever-beneficios-usar-servicos-nuvem/3-confiabilidade-previsibilidade-nuvem)   
+  * [Descrever os benefícios de confiabilidade e previsibilidade na nuvem](https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud)   
 * Descrever os benefícios de segurança e governança na nuvem
-  * [Descrever os benefícios de segurança e governança na nuvem](https://learn.microsoft.com/pt-br/training/modules/descrever-beneficios-usar-servicos-nuvem/4-seguranca-governanca-nuvem)
+  * [Descrever os benefícios de segurança e governança na nuvem](https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud)
 * Descrever os benefícios de gerenciabilidade na nuvem
-  * [Descrever os benefícios de gerenciabilidade na nuvem](https://learn.microsoft.com/pt-br/training/modules/descrever-beneficios-usar-servicos-nuvem/5-gerenciabilidade-nuvem)
+  * [Descrever os benefícios de gerenciabilidade na nuvem](https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud)
 
 #### Descrever os tipos de serviços de nuvem
 * Descrever infraestrutura como serviço (IaaS)
