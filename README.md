@@ -223,4 +223,7 @@ interconexão, Azure DNS, Gateway de VPN do Azure e Azure ExpressRoute
   * [Monitorar recursos em nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
 ## Mostre seu apoio
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ricmmartins/guia-estudo-az900" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ricmmartins/guia-estudo-az900 on GitHub">Star</a>
+
 Dê uma ⭐️ se este conteúdo te ajudou!
