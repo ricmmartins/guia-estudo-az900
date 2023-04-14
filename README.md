@@ -183,8 +183,8 @@ interconexão, Azure DNS, Gateway de VPN do Azure e Azure ExpressRoute
   * [Escolher as melhores ferramentas para gerenciar e configurar seu ambiente do Azure](https://docs.microsoft.com/pt-br/learn/modules/management-fundamentals/)
   * [O que é o Portal do Azure?](https://docs.microsoft.com/pt-br/azure/azure-portal/azure-portal-overview)
 * Descrever o Azure Cloud Shell, incluindo o Azure CLI e o Azure PowerShell
-  * [Visão geral do Azure Cloud Shell](https://docs.microsoft.com/pt-br/azure/azure-portal/azure-portal-overview)
-  * [O que é o Azure CLI?](https://docs.microsoft.com/pt-br/azure/azure-portal/azure-portal-overview)
+  * [Visão geral do Azure Cloud Shell](https://learn.microsoft.com/pt-br/azure/cloud-shell/overview)
+  * [O que é o Azure CLI?](https://learn.microsoft.com/pt-br/cli/azure/what-is-azure-cli)
   * [O que é o Azure PowerShell?](https://docs.microsoft.com/pt-br/powershell/azure/what-is-azure-powershell?view=azps-9.6.0)
 * Descrever o propósito do Azure Arc
   * [Visão geral do Azure ARC](https://docs.microsoft.com/pt-br/azure/azure-arc/overview)
