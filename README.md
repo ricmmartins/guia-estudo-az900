@@ -49,11 +49,11 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 
 #### Descrever os tipos de serviços de nuvem
 * Descrever infraestrutura como serviço (IaaS)
-  * [O que é IaaS?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/o-que-e-iaas/)
+  * [O que é IaaS?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas/)
 * Descrever plataforma como serviço (PaaS)
-  * [O que é PaaS?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/o-que-e-paas/)
+  * [O que é PaaS?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas/)
 * Descrever software como serviço (SaaS)
-  * [O que é SaaS?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/o-que-e-saas/)
+  * [O que é SaaS?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-saas/)
 
 ### 💡 Descreva a arquitetura e os serviços do Azure (35–40%)
 
