@@ -224,14 +224,4 @@ interconexão, Azure DNS, Gateway de VPN do Azure e Azure ExpressRoute
 
 ## Mostre seu apoio
 
-Dê uma ⭐️ se este conteúdo te ajudou!
-
-
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ricmmartins/guia-estudo-az900" data-icon="octicon-star" aria-label="Star ricmmartins/guia-estudo-az900 on GitHub">Star</a>
-
+Dê uma ⭐️ no repositoório deste projeto no GitHub se este conteúdo te ajudou!
