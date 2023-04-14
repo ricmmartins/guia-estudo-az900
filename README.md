@@ -168,10 +168,10 @@ interconexão, Azure DNS, Gateway de VPN do Azure e Azure ExpressRoute
 #### Descrever recursos e ferramentas no Azure para governança e conformidade
 * Descrever o propósito dos Azure Blueprints
   * [O que são Azure Blueprints](https://docs.microsoft.com/pt-br/azure/governance/blueprints/overview)
-  * [Introdução aos Azure Blueprints](https://docs.microsoft.com/pt-br/azure/governance/blueprints/overview)
+  * [Introdução aos Azure Blueprints](https://learn.microsoft.com/pt-br/training/modules/intro-to-azure-blueprints/)
 * Descrever o propósito das Azure Policy
   * [O que é a Azure Policy](https://docs.microsoft.com/pt-br/azure/governance/policy/overview)
-  * [Introdução à Azure Policy](https://docs.microsoft.com/pt-br/azure/governance/policy/overview)
+  * [Introdução à Azure Policy](https://learn.microsoft.com/pt-br/training/modules/intro-to-azure-policy/)
 * Descrever o propósito dos bloqueios de recursos
   * [Bloqueie seus recursos para proteger sua infraestrutura](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/lock-resources)
 * Descrever o propósito do Service Trust Portal
