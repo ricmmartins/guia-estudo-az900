@@ -8,73 +8,73 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 
 ## 📋 Trilha de Aprendizado do [Microsoft Learn](https://aka.ms/learn) para o Exame AZ-900
 
-* [Introdução à Infraestrutura de Nuvem: Descrever conceitos de nuvem](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-* [Introdução à Infraestrutura de Nuvem: Descrever arquitetura e serviços do Azure](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
-* [Introdução à Infraestrutura de Nuvem: Descrever gerenciamento e governança do Azure](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+* [Introdução à Infraestrutura de Nuvem: Descrever conceitos de nuvem](https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+* [Introdução à Infraestrutura de Nuvem: Descrever arquitetura e serviços do Azure](https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/)
+* [Introdução à Infraestrutura de Nuvem: Descrever gerenciamento e governança do Azure](https://learn.microsoft.com/pt-br/training/paths/describe-azure-management-governance/)
 
 ---
 
-## 📝 Habilidades Medidas - [Obtidas do link oficial](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#skills-measured-as-of-january-14-2026)
+## 📝 Habilidades Medidas - [Obtidas do link oficial](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900#skills-measured-as-of-january-14-2026)
 
 ### 💡 Descrever conceitos de nuvem (25–30%)
 
 #### Descrever computação em nuvem
 
 * Definir computação em nuvem  
-  * [O que é computação em nuvem?](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
+  * [O que é computação em nuvem?](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
 
 * Descrever o modelo de responsabilidade compartilhada  
-  * [Responsabilidade compartilhada na nuvem](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+  * [Responsabilidade compartilhada na nuvem](https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility)
 
 * Definir modelos de nuvem, incluindo pública, privada e híbrida  
-  * [Diferentes tipos de modelo de nuvem](https://learn.microsoft.com/en-us/training/modules/fundamental-azure-concepts/types-of-cloud-computing)
+  * [Diferentes tipos de modelo de nuvem](https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/types-of-cloud-computing)
 
 * Identificar casos de uso apropriados para cada modelo de nuvem  
-  * [Quais são os diferentes tipos de serviços de computação em nuvem?](https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/)
-  * [Descrever diferentes serviços de nuvem](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)
-  * [Blocos de construção da nuvem](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/04-building-blocks)
+  * [Quais são os diferentes tipos de serviços de computação em nuvem?](https://azure.microsoft.com/pt-br/overview/types-of-cloud-computing/)
+  * [Descrever diferentes serviços de nuvem](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)
+  * [Blocos de construção da nuvem](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/04-building-blocks)
 
 * Descrever o modelo baseado em consumo  
-  * [A computação em nuvem é um modelo baseado em consumo](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [A computação em nuvem é um modelo baseado em consumo](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 
 * Comparar modelos de preços de nuvem  
-  * [Casos de uso da nuvem: CapEx, OpEx](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/07-economics)
-  * [Despesas de capital vs despesas operacionais](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [Casos de uso da nuvem: CapEx, OpEx](https://docs.microsoft.com/pt-br/learn/modules/cmu-cloud-admin-overview/07-economics)
+  * [Despesas de capital vs despesas operacionais](https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 
 * Descrever serverless  
-  * [O que é computação serverless](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-serverless-computing/)
+  * [O que é computação serverless](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-serverless-computing/)
 
 ---
 
 #### Descrever os benefícios do uso de serviços de nuvem
 
 * Benefícios de alta disponibilidade e escalabilidade na nuvem  
-  * https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud
+  * https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud
 
 * Benefícios de confiabilidade e previsibilidade  
-  * https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud
+  * https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud
 
 * Benefícios de segurança e governança  
-  * https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud
+  * https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud
 
 * Benefícios de gerenciabilidade  
-  * https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud
+  * https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud
 
 ---
 
 #### Descrever tipos de serviços de nuvem
 
 * Infraestrutura como Serviço (IaaS)  
-  * https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/
+  * https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas/
 
 * Plataforma como Serviço (PaaS)  
-  * https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/
+  * https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas/
 
 * Software como Serviço (SaaS)  
-  * https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/
+  * https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-saas/
 
 * Identificar casos de uso apropriados  
-  * https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/
+  * https://learn.microsoft.com/pt-br/training/modules/describe-cloud-service-types/
 
 ---
 
@@ -83,35 +83,35 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 #### Componentes arquiteturais principais do Azure
 
 * Regiões do Azure, pares de regiões e regiões soberanas  
-  * https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/regions-availability-zones
+  * https://learn.microsoft.com/pt-br/training/modules/azure-architecture-fundamentals/regions-availability-zones
 
 * Zonas de disponibilidade  
-  * https://learn.microsoft.com/en-us/azure/reliability/overview#regions-and-availability-zones
+  * https://learn.microsoft.com/pt-br/azure/reliability/overview#regions-and-availability-zones
 
 * Infraestrutura global do Azure  
-  * https://azure.microsoft.com/en-us/explore/global-infrastructure/
+  * https://azure.microsoft.com/pt-br/explore/global-infrastructure/
 
 * Recursos e grupos de recursos  
-  * https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works
+  * https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works
 
 * Assinaturas  
-  * https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-subscription
+  * https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-subscription
 
 * Grupos de gerenciamento  
-  * https://learn.microsoft.com/en-us/azure/governance/management-groups/overview
+  * https://learn.microsoft.com/pt-br/azure/governance/management-groups/overview
 
 ---
 
 #### Serviços de computação e rede do Azure
 
 * Containers vs máquinas virtuais  
-  * https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm
+  * https://learn.microsoft.com/pt-br/virtualization/windowscontainers/about/containers-vs-vm
 
 * Escolher serviço de computação  
-  * https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+  * https://learn.microsoft.com/pt-br/azure/architecture/guide/technology-choices/compute-decision-tree
 
 * Serviços de rede do Azure  
-  * https://learn.microsoft.com/en-us/training/modules/azure-networking-fundamentals/
+  * https://learn.microsoft.com/pt-br/training/modules/azure-networking-fundamentals/
 
 * Endpoints públicos vs privados  
   * https://stackoverflow.com/questions/73769449/azure-difference-between-service-endpoint-and-private-endpoint-in-simple-terms
@@ -121,38 +121,38 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 #### Serviços de armazenamento do Azure
 
 * Fundamentos de armazenamento  
-  * https://learn.microsoft.com/en-us/training/modules/azure-storage-fundamentals/
+  * https://learn.microsoft.com/pt-br/training/modules/azure-storage-fundamentals/
 
 * Camadas de acesso (Hot, Cool, Archive)  
-  * https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+  * https://learn.microsoft.com/pt-br/azure/storage/blobs/access-tiers-overview
 
 * Redundância de armazenamento  
-  * https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy
+  * https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy
 
 * Ferramentas de migração e transferência  
-  * https://learn.microsoft.com/en-us/azure/storage/common/storage-choose-data-transfer-solution
+  * https://learn.microsoft.com/pt-br/azure/storage/common/storage-choose-data-transfer-solution
 
 ---
 
 #### Identidade, acesso e segurança no Azure
 
 * Microsoft Entra ID  
-  * https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra
+  * https://learn.microsoft.com/pt-br/entra/fundamentals/what-is-entra
 
 * Autenticação e autorização  
-  * https://learn.microsoft.com/en-us/entra/identity-platform/authentication-vs-authorization
+  * https://learn.microsoft.com/pt-br/entra/identity-platform/authentication-vs-authorization
 
 * Conditional Access  
-  * https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview
+  * https://learn.microsoft.com/pt-br/entra/identity/conditional-access/overview
 
 * RBAC  
-  * https://learn.microsoft.com/en-us/azure/role-based-access-control/overview
+  * https://learn.microsoft.com/pt-br/azure/role-based-access-control/overview
 
 * Zero Trust  
-  * https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust
+  * https://learn.microsoft.com/pt-br/azure/security/fundamentals/zero-trust
 
 * Microsoft Defender for Cloud  
-  * https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction
+  * https://learn.microsoft.com/pt-br/azure/defender-for-cloud/defender-for-cloud-introduction
 
 ---
 
@@ -161,78 +161,78 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 #### Gerenciamento de custos
 
 * Calculadora de preços  
-  * https://azure.microsoft.com/en-us/pricing/calculator/
+  * https://azure.microsoft.com/pt-br/pricing/calculator/
 
 * Calculadora TCO  
-  * https://azure.microsoft.com/en-us/pricing/tco/calculator/
+  * https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 
 * Cost Management  
-  * https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview
+  * https://learn.microsoft.com/pt-br/azure/cost-management-billing/cost-management-billing-overview
 
 * Uso de tags  
-  * https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources
+  * https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/tag-resources
 
 ---
 
 #### Governança e conformidade
 
 * Microsoft Purview  
-  * https://learn.microsoft.com/en-us/purview/purview
+  * https://learn.microsoft.com/pt-br/purview/purview
 
 * Azure Policy  
-  * https://learn.microsoft.com/en-us/azure/governance/policy/overview
+  * https://learn.microsoft.com/pt-br/azure/governance/policy/overview
 
 * Resource Locks  
-  * https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources
+  * https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/lock-resources
 
 ---
 
 #### Ferramentas de implantação e gerenciamento
 
 * Portal do Azure  
-  * https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
+  * https://learn.microsoft.com/pt-br/azure/azure-portal/azure-portal-overview
 
 * Azure Cloud Shell  
-  * https://learn.microsoft.com/en-us/azure/cloud-shell/overview
+  * https://learn.microsoft.com/pt-br/azure/cloud-shell/overview
 
 * Azure CLI  
   * https://learn.microsoft.com/pt-br/cli/azure/what-is-azure-cli
 
 * Azure PowerShell  
-  * https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell
+  * https://learn.microsoft.com/pt-br/powershell/azure/what-is-azure-powershell
 
 * Azure Arc  
-  * https://learn.microsoft.com/en-us/azure/azure-arc/overview
+  * https://learn.microsoft.com/pt-br/azure/azure-arc/overview
 
 * Infrastructure as Code  
-  * https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
+  * https://learn.microsoft.com/pt-br/devops/deliver/what-is-infrastructure-as-code
 
 * Azure Resource Manager  
-  * https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+  * https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/overview
 
 ---
 
 #### Monitoramento no Azure
 
 * Azure Advisor  
-  * https://learn.microsoft.com/en-us/azure/advisor/advisor-overview
+  * https://learn.microsoft.com/pt-br/azure/advisor/advisor-overview
 
 * Azure Service Health  
-  * https://learn.microsoft.com/en-us/azure/service-health/overview
+  * https://learn.microsoft.com/pt-br/azure/service-health/overview
 
 * Azure Monitor  
-  * https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/
+  * https://learn.microsoft.com/pt-br/training/modules/monitoring-fundamentals/
 
 ---
 
 ## Extras
 
-* [Visão geral do AZ-900](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+* [Visão geral do AZ-900](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals/)
 * [Poster de certificações](http://aka.ms/traincertposter)
-* [Conta gratuita do Azure](https://azure.microsoft.com/en-us/free/)
+* [Conta gratuita do Azure](https://azure.microsoft.com/pt-br/free/)
 * [Simulação do exame](https://aka.ms/examdemo)
 * [Mapa de infraestrutura Azure](http://infrastructuremap.microsoft.com/)
-* [Fundamentos de administração de nuvem](https://docs.microsoft.com/en-us/learn/paths/cmu-admin/)
+* [Fundamentos de administração de nuvem](https://docs.microsoft.com/pt-br/learn/paths/cmu-admin/)
 
 ---
 
