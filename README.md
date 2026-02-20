@@ -2,8 +2,6 @@
 
 Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados para ajudar qualquer pessoa que esteja iniciando na carreira de computação em nuvem e/ou conhecendo o Azure a se preparar para o exame AZ-900.
 
-> **_NOTA:_** Uma versão em português brasileiro está [disponível aqui](https://github.com/ricmmartins/guia-estudo-az900)
-
 *Última atualização em 20 de fevereiro de 2026*
 
 ---
